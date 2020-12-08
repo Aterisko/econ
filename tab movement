@@ -1,0 +1,32 @@
+<body>
+  <header>
+    <h1>Economic Simulation</h1>
+  </header>
+  <section>
+    <form>
+      <p>Sign up to receive Economicus's blog posts by email here!</p>
+
+
+      <label for="email">Email:</label>
+      <input type="text" id="email" name="email">
+
+
+      <input type="submit" name="submit" value="Submit">
+    </form>
+  </section>
+  <article>
+    <h2>Daily News: What is new in our world</h2>
+    <p>The term homo economicus, or economic man, is the portrayal of humans as agents who are consistently rational, narrowly self-interested, and who pursue their ...</p>
+  </article>
+  <img src="samuraiSwords.jpeg" alt="">
+  <article>
+    <h2>Defeating your competitors: the Red Tape is dead!</h2>
+    <p>Libertarians believe that no person can justly own or control the body of another person, what they call 'self-ownership' or 'individual sovereignty. ' In simple words, every person has a right to control her or his own body.</p>
+  </article>
+  <img src="samuraiSwords.jpeg" alt="">
+  <article>
+    <h2>Will I be able to produce it cheaper?</h2>
+    <p>Ca proportionate saving in costs gained by an increased level of production. "mergers may lead to economies of scale"</p>
+  </article>
+  <footer>&copy; 2021 Economus</footer>
+</body>
